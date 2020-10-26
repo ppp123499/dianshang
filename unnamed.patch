@@ -1,0 +1,11 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision 14a8264c57c24dd467e876de332e9f2a564e990f)
++++ README.md	(date 1603680663522)
+@@ -1,2 +1,2 @@
+ # dianshang
+-dianshangxiangmushizhan
++电商项目
